@@ -5,11 +5,11 @@ This is the final project from Bangkit 2023, about cataract detection. As one of
 #Build With
 This aplication build with a few technology, whice is:
 
-Android Studio
-kotlin
-Tensorflow
-Cloud Run
-Firnhese
+- Android Studio
+- kotlin
+- Tensorflow
+- Cloud Run
+- Firnhese
 
 #Features
 A few features, which is
